@@ -1,0 +1,5 @@
+python-fasteners source: file-without-copyright-information
+python-fasteners source: no-debian-changes
+python-fasteners source: source-contains-prebuilt-windows-binary
+python-fasteners source: source-is-missing
+python-fasteners source: source-package-encodes-python-version
